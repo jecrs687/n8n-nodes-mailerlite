@@ -31,10 +31,10 @@
     "n8n": {
         "n8nNodesApiVersion": 1,
         "credentials": [
-            "dist/nodes/MailerliteCustom/MailerLiteCustom.credentials.js"
+            "nodes/MailerliteCustom/MailerLiteCustom.credentials.js"
         ],
         "nodes": [
-            "dist/nodes/MailerliteCustom/MailerLiteCustom.node.js"
+            "nodes/MailerliteCustom/MailerLiteCustom.node.js"
         ]
     },
     "devDependencies": {
